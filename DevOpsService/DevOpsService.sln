@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOpsService.Web", "DevOpsService.Web\DevOpsService.Web.csproj", "{2A3D0E93-1C4F-4B39-9503-1BF6C19328C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevOpsService.Web", "DevOpsService.Web\DevOpsService.Web.csproj", "{2A3D0E93-1C4F-4B39-9503-1BF6C19328C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOpsService.EntityFramework", "DevOpsService.EntityFramework\DevOpsService.EntityFramework.csproj", "{7F2C4FE9-A203-4C5C-BF1E-B6484B4A3A7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevOpsService.EntityFramework", "DevOpsService.EntityFramework\DevOpsService.EntityFramework.csproj", "{7F2C4FE9-A203-4C5C-BF1E-B6484B4A3A7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOpsService.Application", "DevOpsService.Application\DevOpsService.Application.csproj", "{527AA3D8-0366-4E36-A050-A04908FA92AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevOpsService.Application", "DevOpsService.Application\DevOpsService.Application.csproj", "{527AA3D8-0366-4E36-A050-A04908FA92AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOpsService.Domain", "DevOpsService.Domain\DevOpsService.Domain.csproj", "{42671344-E86E-4899-976E-24D795A5A995}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevOpsService.Domain", "DevOpsService.Domain\DevOpsService.Domain.csproj", "{42671344-E86E-4899-976E-24D795A5A995}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{53E82C6E-0160-4248-99EE-149B9D8D3A54}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution", "solution", "{39BCEFE9-29DF-4570-8CAB-6DB124C5116F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution itms", "solution itms", "{39BCEFE9-29DF-4570-8CAB-6DB124C5116F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{42AAE144-B164-42EE-81EA-09C25942A2F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOpsService.Repository", "DevOpsService.Repository\DevOpsService.Repository.csproj", "{91654519-43D6-43E2-A801-27C762DB54C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevOpsService.Repository", "DevOpsService.Repository\DevOpsService.Repository.csproj", "{91654519-43D6-43E2-A801-27C762DB54C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
